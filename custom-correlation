@@ -96,5 +96,3 @@ if __name__ == "__main__":
     except Exception as exception:
         #exit(msg="MAIN: {0}".format(str(exception)))
         print("Error: {0}".format(str(exception)))
-
-
